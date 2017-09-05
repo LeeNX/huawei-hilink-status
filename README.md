@@ -11,7 +11,7 @@ pip install xmltodict
 ```  
 Or using ```rpm``` on CentOS from the EPEL repo:
 ```
-sudo yum install python-xmltodict
+sudo yum install python-xmltodict python-requests
 ```
 
 ## Usage example
