@@ -8,6 +8,10 @@ The utility uses the xmltodict module which can be installed using ```pip```:
 ```
 apt-get install python-pip
 pip install xmltodict
+```  
+Or using ```rpm``` on CentOS from the EPEL repo:
+```
+sudo yum install python-xmltodict
 ```
 
 ## Usage example
